@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#fullbox {
+    max-width: 1604px;
+    width: 100%;
+    padding: 96px;
+    background-color: #E4EBFF;
+}
+#forcentre {
+    margin: 0 auto;
+}
+#fullboxbox {
+    padding: 96px 0px;
+    background-color: #FFF;
+}
+#heading {
+    text-align: center;
+    margin-bottom: 96px;
+}
+#features {
+    color: #6941C6;
+    font-size: 16px;
+}
+h1 {
+    margin-top: 12px;
+    color: #181D27;
+    font-size: 40px;
+    margin-bottom: 32px;
+}
+#powerful {
+    color: #535862;
+    font-size: 20px;
+}
+#leftone {
+    display: inline-block;
+    width: 553px;
+    vertical-align: top;
+}
+#chatimg {
+    background-color: #F4EBFF;
+    border-radius: 9999px;
+}
+#share {
+    margin-top: 10px;
+    color: #181D27;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+#whether {
+    color: #535862;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+#wichka {
+    display: inline-block;
+}
+#wichkebi p, #wichkebi img {
+    display: inline-block;
+    vertical-align: middle;
+}
+#wichkaerti, #wichkaori, #wichkasami {
+    vertical-align: middle;
+}
+#wichkebi p {
+    margin-left: 10px;
+}
+#steptwo {
+    padding: 0px 32px;
+    width: 1280px;
+
+}
+#rightone {
+    display: inline-block;
+}

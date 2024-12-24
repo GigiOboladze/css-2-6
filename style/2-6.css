@@ -3,16 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+#body {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
 #fullbox {
     max-width: 1604px;
     width: 100%;
+    margin: 0 auto;
     padding: 96px;
     background-color: #E4EBFF;
 }
-#forcentre {
+#box {
+    max-width: 1280px;
+    width: 100%;
     margin: 0 auto;
-}
-#fullboxbox {
     padding: 96px 0px;
     background-color: #FFF;
 }
@@ -25,53 +30,213 @@
     font-size: 16px;
 }
 h1 {
-    margin-top: 12px;
     color: #181D27;
     font-size: 40px;
+    margin-top: 12px;
     margin-bottom: 32px;
 }
 #powerful {
     color: #535862;
     font-size: 20px;
 }
-#leftone {
-    display: inline-block;
-    width: 553px;
-    vertical-align: top;
-}
-#chatimg {
-    background-color: #F4EBFF;
-    border-radius: 9999px;
-}
-#share {
-    margin-top: 10px;
+#shareteam {
     color: #181D27;
     font-size: 30px;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 16px;
 }
 #whether {
     color: #535862;
     font-size: 18px;
-    margin-bottom: 20px;
 }
-#wichka {
+#wichkebi {
+    vertical-align: middle;
+    margin-top: 32px;
     display: inline-block;
 }
-#wichkebi p, #wichkebi img {
+#wichkerti {
     display: inline-block;
-    vertical-align: middle;
+    
 }
-#wichkaerti, #wichkaori, #wichkasami {
-    vertical-align: middle;
-}
-#wichkebi p {
-    margin-left: 10px;
-}
-#steptwo {
-    padding: 0px 32px;
-    width: 1280px;
+#wichkerti > p {
+    color: #535862;
+    font-size: 18px;
+    display: inline-block;
 
 }
+#wichkori > p {
+    color: #535862;
+    font-size: 18px;
+    display: inline-block;
+}
+#wichksami > p {
+    color: #535862;
+    font-size: 18px;
+    display: inline-block;
+}
+#wichkerti > img {
+    vertical-align: middle;
+}
+#wichkori > img {
+    vertical-align: middle;
+}
+#wichksami > img {
+    vertical-align: middle;
+}
+#boxone {
+    padding: 0px 32px;
+    width: 1280px;
+    display: inline-block;
+    margin-bottom: 96px;
+}
+#right {
+    vertical-align: middle;
+    display: inline-block;
+}
+#left {
+    vertical-align: middle;
+    display: inline-block;
+    width: 553px;
+}
+#wichkori {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#chatimg {
+    padding: 12px;
+    border-radius: 9999px;
+    background-color: #F4EBFF;
+}
+#zapimg {
+    padding: 12px;
+    border-radius: 9999px;
+    background-color: #F4EBFF;
+}
+#deliver {
+    font-size: 24px;
+    color: #181D27;
+    margin-top: 20px;
+}
+#an {
+    color: #535862;
+    margin-top: 16px;
+    margin-bottom: 32px;
+}
+#wichkebii {
+    vertical-align: middle;
+    display: inline-block; 
+}
+#wichkerti > p {
+    color: #535862;
+    font-size: 18px;
+    display: inline-block;
+
+}
+#wichkone > p {
+    color: #535862;
+    font-size: 18px;
+    display: inline-block;
+}
+#wichkthree > p {
+    color: #535862;
+    font-size: 18px;
+    display: inline-block;
+}
+#wichkone > img {
+    vertical-align: middle;
+}
+#wichktwo > img {
+    vertical-align: middle;
+}
+#wichkthree > img {
+    vertical-align: middle;
+}
+#wichktwo > p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+    color: #535862;
+    font-size: 18px;
+}
 #rightone {
+    display: inline-block;
+    vertical-align: middle;
+    width: 520px;
+    margin-left: 101px;
+}
+#leftone {
+    vertical-align: middle;
+    display: inline-block;
+}
+#boxtwo {
+    padding-right: 32px;
+}
+#boxoneee {
+    padding: 0px 32px;
+    width: 1280px;
+    display: inline-block;
+    margin-top: 96px;
+}
+#lefttt {
+    vertical-align: middle;
+    display: inline-block;
+    width: 553px;
+}
+#chatimgg {
+    padding: 12px;
+    border-radius: 9999px;
+    background-color: #F4EBFF;
+}
+#shareteamm {
+    color: #181D27;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 16px;
+}
+#whetherr {
+    color: #535862;
+    font-size: 18px;
+}
+#wichkebbi {
+    vertical-align: middle;
+    margin-top: 32px;
+    display: inline-block;
+}
+#wichkertii {
+    display: inline-block;
+    
+}
+#wichkertii > p {
+    color: #535862;
+    font-size: 18px;
+    display: inline-block;
+
+}
+#wichkorii > p {
+    color: #535862;
+    font-size: 18px;
+    display: inline-block;
+}
+#wichksamii > p {
+    color: #535862;
+    font-size: 18px;
+    display: inline-block;
+}
+#wichkertii > img {
+    vertical-align: middle;
+}
+#wichkorii > img {
+    vertical-align: middle;
+}
+#wichksamii > img {
+    vertical-align: middle;
+}
+#wichkorii {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#rightt {
+    vertical-align: middle;
     display: inline-block;
 }
